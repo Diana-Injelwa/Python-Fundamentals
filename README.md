@@ -6,6 +6,10 @@ Python has become a predominant language in the field of data analytics due to i
 * For loops
 * While Loops and
 * Functions
+* Reading and Writing files
+* NumPy module
+* Pandas module
+  
 learning these concepts is essenstial as they are the building block of any programming language.
 
 [Variables in Python article](https://medium.com/@dianainjelwa/variables-in-python-2dc361e98317)
